@@ -4,4 +4,4 @@
 
 Proyecto amparado por el decreto número 57-2008 del Congreso de la República de Guatemala (Ley de Acceso a la Información Pública).
 
-Toda la información disponible en este repositorio contiene se encuentra disponible de manera pública en el [sistema](https://trep.gt) informático del Tribunal Supremo Electoral de Guatemala. 
+Toda la información contenida en este repositorio se encuentra disponible de manera pública en el [sistema](https://trep.gt) informático del Tribunal Supremo Electoral de Guatemala. 
